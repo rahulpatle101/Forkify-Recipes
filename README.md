@@ -19,6 +19,6 @@ As a side project, I followed and learned from [Jonas Schmedtman](https://coding
 7. Local Storage
 
 
-[Live Demo]('https://jovial-austin-e46560.netlify.com/')
+[LIVE DEMO](https://jovial-austin-e46560.netlify.com/)
 
 ![Forkify Landing Page](http://rahulpatle.com/img/forkify-landing.png)
